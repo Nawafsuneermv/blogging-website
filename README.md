@@ -1,3 +1,2 @@
-# blogging-website<br>
-
-!(https://user-images.githubusercontent.com/111062573/216811805-44ee5499-0227-4968-a094-d2a5a62c2b50.jpg)
+# blogging-website
+![7](https://user-images.githubusercontent.com/111062573/216811868-e88fe629-13b1-4b71-a7a1-b194055506f9.jpg)
